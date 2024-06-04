@@ -1,13 +1,3 @@
-# Cleanfolio Minimal
+# Raunak Mondal's Personal Website
 
-A portfolio template built with HTML, CSS, and JavaScript.
-
-## Preview
-
-[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rajshekhar26.github.io/cleanfolio-minimal)
-
-[Live Demo](https://rajshekhar26.github.io/cleanfolio-minimal)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+In this personal website, I highlight the many different skills, projects, and highlights that I have acquired and worked on over the past couple of years. I highlight the several projects that I have worked in my AP Computer Science A and AP Computer Science Principles classes that show my advanced proficiency in Full-Stack Development (specifically Frontend Development) and I also highlight projects that I have worked on in my free time related to Machine Learning. I also highlight a showcase event that I participated in, Night at the Museum (N@TM), where I demonstrated one of the Full-Stack Development projects that I worked on, as well as the agile/scrum methodology that I have used both as a scrum master and as a team member in the form of agile manifestos
